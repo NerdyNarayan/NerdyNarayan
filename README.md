@@ -1,4 +1,4 @@
-<div> 
+<div style="display:flex; justify-content:center; align-items:center;"  > 
   <samp style="display:flex; justify-content:center; align-items:center; gap:60px">
    <img  src="./profile.gif" style="width:100px;  border-radius:100%"/>
 <img src="HomeLogo.png"/ height="60">
@@ -27,7 +27,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="expressjs">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="48" title="prisma">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="mongodb">
-       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgresSQL-Dark.svg" width="48" title="Postgres">
+       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="Postgres">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" title="Nest">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="vim">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="git">
